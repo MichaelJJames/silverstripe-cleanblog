@@ -2,6 +2,12 @@
 
 **Silverstripe Theme** is a HTML [Bootstrap Theme](http://startbootstrap.com/template-overviews/clean-blog/) for Silverstripe.
 
+## Requirements
+
+[silverstripe/silverstripe-blog](https://github.com/silverstripe/silverstripe-blog)
+
+[michaeljjames/silverstripe-cleanblogextensions](https://github.com/MichaelJJames/silverstripe-cleanblogextensions)
+
 ## Theme Credit
 
 [StartBootstrap : Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/)  [License](https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
