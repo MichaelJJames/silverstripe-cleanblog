@@ -12,7 +12,8 @@
     ],
     "require": {
         "composer/installers": "*",
-        "silverstripe/framework": ">=3.5"
+        "silverstripe/framework": ">=3.5",
+	"michaeljjames/silverstripe-cleanblogextensions": "dev-master"
     },
 	"extra": {
 		"branch-alias": {
