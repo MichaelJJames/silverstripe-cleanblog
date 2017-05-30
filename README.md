@@ -1,6 +1,6 @@
 ## Silverstripe Theme
 
-**Silverstripe Theme** is a HTML [Bootstrap Theme](http://startbootstrap.com/template-overviews/clean-blog/) for Silverstripe.
+**Silverstripe CleanBlog Theme** is a HTML [Bootstrap Theme](http://startbootstrap.com/template-overviews/clean-blog/) for Silverstripe.
 
 ## Requirements
 
